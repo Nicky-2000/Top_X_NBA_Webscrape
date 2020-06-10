@@ -1,5 +1,5 @@
 # Top_X_NBA_Webscrape
-Project to learn python web-scraping libraries and a little exposure to HTML.
+Project to learn python web-scraping libraries.
 
 This program makes a csv file of the top NBA players by points scored during the post season or regular season of any year from 2001-Present. It also lets you choose how big of a list you want to see. 
 
